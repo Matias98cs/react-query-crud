@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "lapto",
+            "description": "laptop gaming",
+            "price": 1000,
+            "inStock": true
+        },
+        {
+            "id": 2,
+            "name": "mouse",
+            "description": "mouse multiclick",
+            "price": 500,
+            "inStock": true
+        },
+        {
+            "id": 3,
+            "name": "phone",
+            "description": "iphone 14",
+            "price": 2000,
+            "inStock": true
+        }
+    ]
+}

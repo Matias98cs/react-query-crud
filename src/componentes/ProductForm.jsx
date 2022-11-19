@@ -9,7 +9,6 @@ const ProductForm = () => {
     const addProductMutation = useMutation({
         mutationFn: createProduct,
         onSuccess: () => {
-            console.log('Producto added')
             queryClient.invalidateQueries('products')
         }
     })

@@ -1,46 +1,39 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "lapto",
-      "description": "laptop gaming",
-      "price": 1000,
-      "inStock": true
+      "name": "Cosa-1",
+      "description": "example-1",
+      "price": "123",
+      "inStock": false,
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "mouse",
-      "description": "mouse multiclick",
-      "price": 500,
-      "inStock": true
+      "name": "Cosa-2",
+      "description": "example-1",
+      "price": "123",
+      "inStock": true,
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "phone",
-      "description": "iphone 14",
-      "price": 2000,
-      "inStock": true
+      "name": "Cosa-3",
+      "description": "example-1",
+      "price": "123",
+      "inStock": false,
+      "id": 3
     },
     {
-      "name": "Matias",
-      "description": "Holaaaa",
-      "price": "23",
+      "name": "Cosa-4",
+      "description": "example-1",
+      "price": "123",
       "inStock": true,
       "id": 4
     },
     {
-      "name": "example",
-      "description": "Otro cambio a las 12:16",
-      "price": "3232",
+      "name": "Cosa-5",
+      "description": "example-1",
+      "price": "123",
       "inStock": true,
       "id": 5
-    },
-    {
-      "name": "algo",
-      "description": "algo bueno",
-      "price": "23231",
-      "inStock": true,
-      "id": 6
     }
   ]
 }

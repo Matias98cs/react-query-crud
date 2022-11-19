@@ -1,10 +1,13 @@
 import React from 'react'
+import ProductForm from './componentes/ProductForm'
+import Products from './componentes/Products'
 
 const App = () => {
   return (
-    <div>
-      Hello world
-    </div>
+    <>
+      <ProductForm/>
+      <Products/>
+    </>
   )
 }
 

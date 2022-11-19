@@ -1,13 +1,6 @@
 {
   "products": [
     {
-      "name": "Cosa-1",
-      "description": "example-1",
-      "price": "123",
-      "inStock": false,
-      "id": 1
-    },
-    {
       "name": "Cosa-2",
       "description": "example-1",
       "price": "123",
